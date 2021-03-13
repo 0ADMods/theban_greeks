@@ -7,6 +7,6 @@
     <Entity>units/theb/cavalry_javelineer_e</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/athenians/cavalry_javelineer_a_m.xml</Actor>
+    <Actor>units/athenians/cavalry_javelinist_a_m.xml</Actor>
   </VisualActor>
 </Entity>
