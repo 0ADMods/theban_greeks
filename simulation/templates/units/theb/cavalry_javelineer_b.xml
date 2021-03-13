@@ -7,12 +7,12 @@
     <SpecificName>Pródromos Lokrikós</SpecificName>
 	<GenericName>Locrian Skirmish Cavalry</GenericName>
     <History>Prodromoi were the light scouts of Greek armies.</History>
-    <Icon>units/spart_cavalry_javelineer.png</Icon>
+    <Icon>units/spart_cavalry_javelinist.png</Icon>
   </Identity>
   <Promotion>
-    <Entity>units/theb/cavalry_javelineer_a</Entity>
+    <Entity>units/theb/cavalry_javelinist_a</Entity>
   </Promotion>
   <VisualActor>
-    <Actor>units/athenians/cavalry_javelineer_b_m.xml</Actor>
+    <Actor>units/athenians/cavalry_javelinist_b_m.xml</Actor>
   </VisualActor>
 </Entity>
